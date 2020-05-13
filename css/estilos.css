@@ -1,0 +1,25 @@
+body{
+    background-image:
+      url(https://tchesolutions.com.br/wp-content/uploads/2018/09/background.jpg);
+    background-size: auto;
+    
+  }
+  .menu{
+    background-color: #c0c0c0;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .site-title{
+    text-align: center;
+    color: white;
+  }
+  
+  .site-subtitle{
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+    
+  }
